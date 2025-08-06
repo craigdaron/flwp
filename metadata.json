@@ -1,0 +1,5 @@
+{
+  "name": "First Line Inspiration",
+  "description": "An application that generates random writing prompts from a curated list and uses AI to expand on them with creative story ideas, helping writers overcome blocks and find inspiration.",
+  "requestFramePermissions": []
+}
